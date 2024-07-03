@@ -1,0 +1,9 @@
+name = "VulkanTutorial"
+uuid = "be06a56a-56d5-4c06-a4f8-ebb6ea20f5db"
+authors = ["James Schloss <jrs.schloss@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+Vulkan = "9f14b124-c50e-4008-a7d4-969b3a6cd68a"
+glslang_jll = "6fd5517d-459c-5c5a-9b1a-c968b4e37a81"
